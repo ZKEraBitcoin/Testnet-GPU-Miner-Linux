@@ -69,7 +69,7 @@ Options:
   pool                    (Pool only) URL of pool mining server (default: http://bnbtcpool.crnx.org:80)
   secondaryPool           (Optional) URL of failover pool mining server
   logFile                 Enables logging of console output to '{appPath}\\Log\\{yyyy-MM-dd}.log' (default: false)
-  devFee                  Set developer fee in percentage (default: 2.0%, minimum: 2.0%)
+  devFee                  Set developer fee in percentage (default: 0.0%, minimum: 0.0%)
 
 NOTES
 Do refer to 'GuideForSoloMining.txt' on how to get started.
